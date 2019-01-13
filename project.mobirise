@@ -1501,8 +1501,8 @@
             }
           },
           "text1": "<b>Photo Credit</b><br>© naturepl.com - Kevin Schafer - WWF<br>© Luis Barretophotos - WWF Colombia<br>© Javier Larotta - WWF<br>© Tarapoto - Jaime Rojo<br>© Adriano Gambarini - WWF Brazil&nbsp;<br>",
-          "text2": "<strong>Contacts</strong><br><br>",
-          "text3": "<strong>Links</strong>",
+          "text2": "",
+          "text3": "",
           "alias": "purity/components",
           "_tags": [
             "Tema"
